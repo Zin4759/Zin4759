@@ -11,8 +11,11 @@
  Silicon Valley Innovation & Startup Winter Program
  -Content
 
+[김태무 수료증.pdf](https://github.com/Zin4759/Zin4759/files/11718260/default.pdf)
+[4. Outstanding.pdf](https://github.com/Zin4759/Zin4759/files/11718261/4.Outstanding.pdf)
 
 ## My Career
+
 ### 코딩(스크레치) 부분 장려상
  ![alt text](2022_11_25_대회/9F69EE36-90AE-4485-90DB-917EE3A6B2A3.JPG)
 
