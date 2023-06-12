@@ -6,6 +6,10 @@
 - 📫 How to reach me ...
 
 
+## Training I've taken
+ ### i-CAPS
+ Silicon Valley Innovation & Startup Winter Program
+ -Content
 
 
 ## My Career
