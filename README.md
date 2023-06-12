@@ -15,7 +15,7 @@
 <br>
 [장려상.pdf](https://github.com/Zin4759/Zin4759/files/11718261/4.Outstanding.pdf)
 <br>
-[결과물](https://github.com/Zin4759/Zin4759/files/11718571/2023-winter-svsip-_._.pptx)
+[결과물(ppt)](https://github.com/Zin4759/Zin4759/files/11718571/2023-winter-svsip-_._.pptx)
 
 
 ## My Career
