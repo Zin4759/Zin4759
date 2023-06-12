@@ -8,8 +8,7 @@
 
 ## Training I've taken
 ### i-CAPS
- Silicon Valley Innovation & Startup Winter Program
- -Content
+ Silicon Valley Innovation & Startup Winter Program (2023.1.09~2023.1.20)
 
 [수료증.pdf](https://github.com/Zin4759/Zin4759/files/11718260/default.pdf)
 <br>
