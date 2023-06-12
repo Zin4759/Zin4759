@@ -17,7 +17,9 @@
 ## My Career
 
 ### 코딩(스크레치) 부분 장려상
- ![alt text](2022_11_25_대회/9F69EE36-90AE-4485-90DB-917EE3A6B2A3.JPG)
+![9F69EE36-90AE-4485-90DB-917EE3A6B2A3](https://github.com/Zin4759/Zin4759/assets/74270202/dd859952-3ae2-460c-a58e-439efcacdb78)
+![IMG_3514](https://github.com/Zin4759/Zin4759/assets/74270202/183de468-5618-491b-adb8-a41380915df1)
+
 
 <!---
 Zin4759/Zin4759 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
