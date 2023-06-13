@@ -9,7 +9,9 @@
 
 # Server Side Language or Program
 This is my Areas of interest.<br>
-(서버 쪽에 관심 가지게 된 계기가 들어갈 부분)
+(서버 쪽에 관심 가지게 된 계기가 들어갈 부분) <br>
+저는 2002년 12월에 태어난 사람입니다.<br>
+그래서 제가 어릴 적에는, iPhone이 막 출시되면서 웹이 주목받기 시작했었습니다.
 ## Ruby on Rails
 루비 온 레일즈에 관심 가지게 된 계기 혹은 그 무언가가 들어갈 영역
 ### Ruby에 대해
