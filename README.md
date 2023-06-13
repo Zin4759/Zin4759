@@ -9,7 +9,6 @@
 # Server Side Language or Program
 This is my Areas of interest.
 ## Ruby on Rails & Ruby
-<br>
 Content
 ### Ruby에 대해
 대학교 1학년이던 2021년부터 관심을 가지고 있었으나, blablabla
