@@ -38,30 +38,33 @@ blablabla....
 
 # My Career
 
-## 코딩(스크레치) 부분 장려상
+## 코딩(스크래치) 부분 장려상
 [대회 정보](https://github.com/Zin4759/Zin4759/assets/74270202/dd859952-3ae2-460c-a58e-439efcacdb78) : 코딩부문 참여
 <br>
 [장려상 사진](https://github.com/Zin4759/Zin4759/assets/74270202/183de468-5618-491b-adb8-a41380915df1) : 장려상 증거사진
 
 
 
-# 학교생활을 돌아보며
-## 대학교 1학년 1학기 = 2021년
+# 대학교 생활을 돌아보며
+## 1학년 1학기 = 2021년
 content
 ## 여름방학
 content
-## 대학교 1학년 2학기 = 2021년
+## 1학년 2학기 = 2021년
 content
 ## 겨울방학
 content
-## 대학교 2학년 1학기 = 2022년
+## 2학년 1학기 = 2022년
 content
 ## 여름방학
 content
-## 대학교 2학년 2학기 = 2022년
+## 2학년 2학기 = 2022년
 content
 ## 겨울방학
 content
+## 3학년 1학기 = 2023년
+content
+
 
 <!---
 Zin4759/Zin4759 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
