@@ -8,15 +8,16 @@
 
 # Server Side Language or Program
 This is my Areas of interest.
+(This is area of why)
 ## Ruby on Rails & Ruby
 Content
 ### Ruby에 대해
-대학교 1학년이던 2021년부터 관심을 가지고 있었으나, blablabla
+대학교 1학년이던 2021년부터 관심을 가지고 있었으나, blablabla....
 <br>
 ## Training I've taken
 ### i-CAPS
  Silicon Valley Innovation & Startup Winter Program (2023.1.09~2023.1.20)
-<br> 전북대 & 전남대 + 전주대(본인)
+ 전북대 & 전남대 + 전주대(본인)
  <br>
  역할 : 스케치북팀 팀장 & 소프트웨어 기술자문 & 소프트웨어 디자인 담당
 
