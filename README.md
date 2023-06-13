@@ -4,13 +4,13 @@
 - 🌱 I’m currently learning Server Side program(Ruby on rails and other..)
 - 💞️ I’m looking to collaborate on Security study
 - 📫 How to reach me ...
-<br>
+<hr>
 # 서버 사이드 언어 & 프로그램
 ## Ruby on Rails & Ruby<br>
 Content
 ### Ruby에 대해
 대학교 1학년이던 2021년부터 관심을 가지고 있었으나, blablabla
-<hr>
+<br>
 ## Training I've taken
 ### i-CAPS
  Silicon Valley Innovation & Startup Winter Program (2023.1.09~2023.1.20)
