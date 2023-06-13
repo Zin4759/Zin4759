@@ -9,8 +9,8 @@
 # Server Side Language or Program
 This is my Areas of interest.<br>
 (서버 쪽에 관심 가지게 된 계기가 들어갈 부분)
-## Ruby on Rails & Ruby
-Content
+## Ruby on Rails
+루비 온 레일즈에 관심 가지게 된 계기 혹은 그 무언가가 들어갈 영역
 ### Ruby에 대해
 대학교 1학년이던 2021년부터 관심을 가지고 있었으나, blablabla....
 <br>
