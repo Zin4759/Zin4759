@@ -21,7 +21,7 @@ This is my Areas of interest.<br>
  <br>
  역할 : 스케치북팀 팀장 & 소프트웨어 기술자문 & 소프트웨어 디자인 담당
 
-[수료증(pdf)](https://github.com/Zin4759/Zin4759/files/11718260/default.pdf) : San Jose 대학의 박태호 교수님께서 발급해 주셨음
+[수료증(pdf)](https://github.com/Zin4759/Zin4759/files/11718260/default.pdf) : San Jose(산호세) 대학의 박태호 교수님께서 발급해 주셨음
 <br>
 [장려상(pdf)](https://github.com/Zin4759/Zin4759/files/11718261/4.Outstanding.pdf) : Outstanding Effort Prize
 <br>
