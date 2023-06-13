@@ -9,6 +9,7 @@
 ## Training I've taken
 ### i-CAPS
  Silicon Valley Innovation & Startup Winter Program (2023.1.09~2023.1.20)
+ <br>
  역할 : 스케치북팀 팀장 & 소프트웨어 기술자문
 
 [수료증.pdf](https://github.com/Zin4759/Zin4759/files/11718260/default.pdf)
