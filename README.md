@@ -8,7 +8,7 @@
 
 # Server Side Language or Program
 This is my Areas of interest.<br>
-(This is area of why)
+(서버 쪽에 관심 가지게 된 계기가 들어갈 부분)
 ## Ruby on Rails & Ruby
 Content
 ### Ruby에 대해
