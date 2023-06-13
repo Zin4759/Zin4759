@@ -36,9 +36,9 @@ blablabla....
 <br>
 [디자인(Figma)](https://www.figma.com/file/ukUs8eRa6SBlKgH8WB0tc5/UI?type=design&t=1UcNiZHEHXUNGhY0-1) : PPT에 반영되지 않은 부분은 미완성임
 
-# My Career
+## My Career
 
-## 코딩(스크래치) 부분 장려상
+### 코딩(스크래치) 부분 장려상
 [대회 정보](https://github.com/Zin4759/Zin4759/assets/74270202/dd859952-3ae2-460c-a58e-439efcacdb78) : 코딩부문 참여
 <br>
 [장려상 사진](https://github.com/Zin4759/Zin4759/assets/74270202/183de468-5618-491b-adb8-a41380915df1) : 장려상 증거사진
