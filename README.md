@@ -1,8 +1,9 @@
 ## Introduce myself
-- 👋 Hi, I’m @Zin4759, And my Real name is Taemoo.
+- 👋 Hi, I’m @Zin4759, And my real name is Taemoo.
 - 👀 I’m interested in Ruby on Rails before, now i interest for Server side program or language.
 - 🌱 I’m currently learning Server Side program(Ruby on rails and other..)
 - 💞️ I’m looking to collaborate on Security study
+- 📚 My belief is that technology should improve people's lives.
 - 📫 How to reach me ...
 
 
