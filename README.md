@@ -13,11 +13,11 @@
  <br>
  역할 : 스케치북팀 팀장 & 소프트웨어 기술자문 & 소프트웨어 디자인 담당
 
-[수료증.pdf](https://github.com/Zin4759/Zin4759/files/11718260/default.pdf)
+[수료증(pdf)](https://github.com/Zin4759/Zin4759/files/11718260/default.pdf)
 <br>
-[장려상.pdf](https://github.com/Zin4759/Zin4759/files/11718261/4.Outstanding.pdf)
+[장려상(pdf)](https://github.com/Zin4759/Zin4759/files/11718261/4.Outstanding.pdf) : Outstanding Effort Prize
 <br>
-[결과물(ppt)](https://github.com/Zin4759/Zin4759/files/11718571/2023-winter-svsip-_._.pptx)
+[결과물(ppt)](https://github.com/Zin4759/Zin4759/files/11718571/2023-winter-svsip-_._.pptx) : Pitch Deck
 <br>
 [디자인(Figma)](https://www.figma.com/file/ukUs8eRa6SBlKgH8WB0tc5/UI?type=design&t=1UcNiZHEHXUNGhY0-1) : PPT에 반영되지 않은 부분은 미완성임
 
