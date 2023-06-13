@@ -9,6 +9,7 @@
 ## Training I've taken
 ### i-CAPS
  Silicon Valley Innovation & Startup Winter Program (2023.1.09~2023.1.20)
+<br> 전북대 & 전남대 + 전주대(본인)
  <br>
  역할 : 스케치북팀 팀장 & 소프트웨어 기술자문 & 소프트웨어 디자인 담당
 
