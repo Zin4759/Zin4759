@@ -2,8 +2,8 @@
 - 👋 Hi, I’m @Zin4759, And my real name is Taemoo.
 - 👀 I’m interested in Ruby on Rails before, now i interest for Server side program or language.
 - 🌱 I’m currently learning Server Side program(Ruby on rails and other..)
+- 🛠️ I am a engineer who believes that "Technology must improve human lifestyle".
 - 💞️ I’m looking to collaborate on Security study
-- 📚 My belief is that technology should improve people's lives.
 - 📫 How to reach me ...
 
 
@@ -13,7 +13,9 @@ This is my Areas of interest.<br>
 ## Ruby on Rails
 루비 온 레일즈에 관심 가지게 된 계기 혹은 그 무언가가 들어갈 영역
 ### Ruby에 대해
-대학교 1학년이던 2021년부터 관심을 가지고 있었으나, blablabla....
+대학교 1학년이던 2021년부터 관심을 가지게 되었습니다.
+<br>
+blablabla....
 <br>
 ## Training I've taken
 ### i-CAPS
